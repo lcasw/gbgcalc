@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400&display=swap');
+body {
+    font-family: "comfortaa";
+}
+.flex {
+display: flex;
+}
+.in {
+flex: 5;
+font-size: 30px;
+}
+.flexbutton {
+  flex: 1;
+  font-size: 20px;
+  font-family: "comfortaa";
+  background-color: skyblue;
+}
+button {
+  font-family: "comfortaa";
+}
+input {
+  font-family: "comfortaa";
+}
